@@ -1,0 +1,18 @@
+{
+	"Print to console": {
+	"scope": "javascript,typescript",
+	"prefix": "newcommand",
+	"body": [
+		"const execute = (bot, msg, args) => {",
+		"$1",
+		"}",
+		"$2",
+		"module.exports = {",
+		"    name:'nomedocomando',",
+		"    help:'O que ele faz',",
+		"    execute,",
+		"}",
+	],
+	"description": "Log output to console"
+	}
+}

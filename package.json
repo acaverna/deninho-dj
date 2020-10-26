@@ -1,0 +1,24 @@
+{
+  "name": "deninho-dj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "Joao Pedro",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "yt-search": "^2.3.3",
+    "ytdl-core-discord": "^1.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
