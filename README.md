@@ -7,7 +7,7 @@
 
 Todos os comandos devem ser iniciados com ";"
 
-* play - Adiciona a musica a queue e toca ela
+* play <musica>- Adiciona a musica a queue e toca ela
 * pause - Pausa a musica atual
 * resume - Continua a reprodução da musica atual
 * skip - Pula para a próxima música
